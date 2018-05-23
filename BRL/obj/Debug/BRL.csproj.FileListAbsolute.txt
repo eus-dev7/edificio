@@ -1,0 +1,7 @@
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\bin\Debug\BRL.dll
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\bin\Debug\BRL.pdb
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\bin\Debug\DAL.dll
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\bin\Debug\DAL.pdb
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\obj\Debug\BRL.dll
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\BRL\obj\Debug\BRL.pdb

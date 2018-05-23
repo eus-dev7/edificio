@@ -1,0 +1,16 @@
+C:\Users\Gsus\Downloads\FinalParcial\edificio\edificio\edificio\bin\Debug\edificio.exe.config
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\edificio.exe.config
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\edificio.exe
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\edificio.pdb
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\BRL.dll
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\DAL.dll
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\BRL.pdb
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\bin\Debug\DAL.pdb
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.csprojResolveAssemblyReference.cache
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.Buscar.resources
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.FrmRegistrar.resources
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.Properties.Resources.resources
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.csproj.GenerateResource.Cache
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.exe
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.pdb
+C:\Users\eus\Desktop\Cprojects\edificio\edificio\edificio\obj\Debug\edificio.Principal.resources
